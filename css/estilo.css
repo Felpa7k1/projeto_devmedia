@@ -1,5 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
 body{
-   background-color: rgb(246, 246, 247);
+   background-color:#F5F5F5;
 
 }
 
@@ -12,23 +18,25 @@ div{
 
 h1{
     text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family:  Tahoma;
+    margin-top: 0;
 }
 
 img{
     display: block;
-    margin: 30px auto;
+    margin: 50px auto;
 }
 
 h2{
     text-align: center;
-    font-family: Verdana;
+    font-family: Tahoma;
+    margin-bottom: 30px;
 }
 
 p{
     text-align: center;
     margin: 0;
-    font-size: 18px;
+    font-size: 16px;
 }
 
 .links{
@@ -40,12 +48,12 @@ p{
     border-radius:20px ;
     text-decoration: none;
     font-weight: bold;
-    font-family: Verdana;
+    font-family: Tahoma;
 } 
 
 .links:hover{
     color: black;
-    background-color: rgb(17, 151, 17)
+    background-color: rgb(17, 151, 17);
 
 }
 
@@ -57,16 +65,16 @@ hr{
 span{
     font-weight: bold;
     font-size: 14px;
-    font-family: Verdana;
+    font-family: Tahoma;
 }
 
 .sin{
-    margin-top:100px
+    margin-top:100px;
 }
 
 .sub{
     margin-top: 100px;
-    font-size: 20px;
+    font-size: 18px;
 }
 
 .marcketing{
